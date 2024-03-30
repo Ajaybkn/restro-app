@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-
+//function
 function RestaurantHeader() {
   return (
     <div className="header-wrapper">
